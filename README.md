@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👋 Hi there 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="plant growing gif">
+</div>
 <!--
 **jahnvisethjs/jahnvisethjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
