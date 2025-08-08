@@ -26,12 +26,6 @@
 
 ## 🚀 Featured Projects
 
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnvisethjs&theme=github&width=1000)
-![Jahnvi Seth's github stats](https://github-readme-stats.vercel.app/api?username=jahnvisethjs&show_icons=true,theme=chartreuse-dark)
-[![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisethjs&layout=donut&theme=light&hide_border=true&title_color=000&text_color=000&custom_title=Top%20Languages%20by%20Repo&card_width=200&donut_radius=200)](https://github.com/jahnvisethjs/github-readme-stats)
-<br>
-
 <!--
 **jahnvisethjs/jahnvisethjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
