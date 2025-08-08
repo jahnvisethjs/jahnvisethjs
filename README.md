@@ -1,6 +1,6 @@
-## 👋 Hi there 
-### I'm Jahnvi Seth! ✨
+## 👋 Hi there, I'm Jahnvi Seth! ✨
 
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/DYGbtrltNhHVX7xZTk/giphy.gif?cid=790b761127p08mc0owzh4o9q41fpzd3yq1hh9iedxqjq29f7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="plant growing gif">
 </div>
@@ -11,6 +11,21 @@
 [![Twitter Badge](https://img.shields.io/badge/-@JahnviSeth-1DA1F2?style=flat&logo=X&logoColor=white&link=https:https://x.com/JahnviSeth)](https://x.com/JahnviSeth)
 <img src="https://komarev.com/ghpvc/?username=jahnvisethjs&color=red" />
 <br>
+-->
+## 👋 Hi, I'm Jahnvi Seth! ✨
+
+<div align="center">
+  <img src="https://media.giphy.com/media/DYGbtrltNhHVX7xZTk/giphy.gif?cid=790b761127p08mc0owzh4o9q41fpzd3yq1hh9iedxqjq29f7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="plant growing gif">
+</div>
+<br>
+
+
+## 🔒 About Me
+
+## 🧠 Core Skills & Tools
+
+## 🚀 Featured Projects
+
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnvisethjs&theme=github&width=1000)
 ![Jahnvi Seth's github stats](https://github-readme-stats.vercel.app/api?username=jahnvisethjs&show_icons=true,theme=chartreuse-dark)
