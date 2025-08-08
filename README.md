@@ -1,42 +1,19 @@
-## 👋 Hi there, I'm Jahnvi Seth! ✨
-
-<!--
-<div align="center">
-  <img src="https://media.giphy.com/media/DYGbtrltNhHVX7xZTk/giphy.gif?cid=790b761127p08mc0owzh4o9q41fpzd3yq1hh9iedxqjq29f7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="plant growing gif">
-</div>
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jahnvi%20Seth-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jahnvi-seth/)](https://www.linkedin.com/in/jahnvi-seth/)
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20me-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jahnvisethwork@gmail.com)](mailto:jahnvisethwork@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@JahnviSeth-1DA1F2?style=flat&logo=X&logoColor=white&link=https:https://x.com/JahnviSeth)](https://x.com/JahnviSeth)
-<img src="https://komarev.com/ghpvc/?username=jahnvisethjs&color=red" />
-<br>
--->
 ## 👋 Hi, I'm Jahnvi Seth! ✨
-
-<div align="center">
-  <img src="https://media.giphy.com/media/DYGbtrltNhHVX7xZTk/giphy.gif?cid=790b761127p08mc0owzh4o9q41fpzd3yq1hh9iedxqjq29f7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="plant growing gif">
-</div>
-<br>
-
+MS Data Science @Arizona State University | SDE @ASU | SWE @JPMorgan Chase | AWS Certified Cloud Practitioner | Hashicorp Terraform Associate | SWE Intern'22@Microsoft | Winner JPMC Code For Good'21
+I'm actively looking for internship opportunities for Summer 2026. I am open to roles in software engineering with applications of AI/ML.
 
 ## 🔒 About Me
+I'm a Master's in Data Science, Analytics, and Engineering student at ASU with a strong foundation in AI/ML, use of AI for societal impact, and software engineering. With 1.5+ years of industry experience at JP Morgan Chase & Co. as a software developer, I focus on building solutions that can use data, integrate with systems, and help people.
+
+I also work part-time as a Software Development Analyst at ASU Social Embeddedness.
 
 ## 🧠 Core Skills & Tools
+* **AI & Machine Learning:** LangChain, Transformers, PyTorch, LLMs, TensorFlow, OpenCV, Sentiment Analysis, NLP, Deep Learning
+* **Feature Engineering:** Pandas, NumPy, Streamlit, Matplotlib, Neo4j, GraphDB, CQL, Topic Modelling, Prompt Engineering, Data Analytics
+* **Cloud & DevOps:** AWS Certified Cloud Practitioner, Hashicorp Terraform Certified, CI/CD Pipelines, Agile Methodology, Bitbucket, GitHub
+* **Programming Languages & Frameworks:** Python, C++, JavaScript, SQL, React, Node.js, Express.js, ASP.NET MVC, Django, FluentUI, D3.js
+* **Testing & Automation:** Cypress, Mochawesome, Python Testing, JavaScript Testing
 
 ## 🚀 Featured Projects
-
-<!--
-**jahnvisethjs/jahnvisethjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **FakeBusters:** A dual perspective approach to fake news detection
+* **AHEAD:** AWS Health Events Dashboard
